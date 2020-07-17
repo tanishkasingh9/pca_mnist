@@ -35,11 +35,11 @@ Result of Fisher's LDA analysis:
 Metric Description| Result
 --- | --- 
 |training accuracy  |  93.0%|
-|Class 0 (true label = 5) training accuracy |  95.5%
-|Class 1 (true label = 8) training accuracy |  90.5%
-|test accuracy  | 71%
-|Class 0 (true label = 5) test accuracy  |  6.0%
-|Class 1 (true label = 8) test accuracy  |  94.0%
+|Class 0 (true label = 5) training accuracy |  95.5\%
+|Class 1 (true label = 8) training accuracy |  90.5\%
+|test accuracy  | 71\%
+|Class 0 (true label = 5) test accuracy  |  6.0\%
+|Class 1 (true label = 8) test accuracy  |  94.0\%
 
 </p>
 
