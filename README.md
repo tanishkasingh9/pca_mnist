@@ -31,7 +31,8 @@ Reduced to two dimensions using PCA
 </p>
 
 Result of Fisher's LDA analysis:
-
+Metric Description| Result
+--- | --- 
 |training accuracy  |  93.0|
 |Class 0 (true label = 5) training accuracy |  95.5
 |Class 1 (true label = 8) training accuracy |  90.5
